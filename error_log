@@ -1,0 +1,1 @@
+[15-Nov-2023 13:32:03 UTC] PHP Fatal error:  Trait "Laravel\Cashier\Billable" not found in /home3/cryptrm6/dev.cryptowizguy.com/app/Models/Settings.php on line 11
